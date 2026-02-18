@@ -14,7 +14,6 @@ function App() {
           </div>
           <ul className="nav-links">
             <li><a href="#home">Home</a></li>
-            <li><a href="#services">Services</a></li>
             <li><a href="#about">About</a></li>
             <li><a href="#contact">Contact</a></li>
           </ul>
@@ -28,33 +27,6 @@ function App() {
           <p>Professional Direct Mail Marketing Solutions</p>
           <p className="hero-subtext">Targeted postcard campaigns that connect with local businesses and homeowners</p>
           <button className="cta-button">Get Started Today</button>
-        </div>
-      </section>
-
-      {/* Services Section */}
-      <section id="services" className="services">
-        <h2>Our Services</h2>
-        <div className="services-grid">
-          <div className="service-card">
-            <div className="service-icon">✉️</div>
-            <h3>Postcard Design</h3>
-            <p>Professional custom designs that capture attention and drive results</p>
-          </div>
-          <div className="service-card">
-            <div className="service-icon">📬</div>
-            <h3>Mailing Lists</h3>
-            <p>Targeted demographic data to reach the right audience for your business</p>
-          </div>
-          <div className="service-card">
-            <div className="service-icon">🎯</div>
-            <h3>Campaign Strategy</h3>
-            <p>Expert guidance to maximize ROI and campaign effectiveness</p>
-          </div>
-          <div className="service-card">
-            <div className="service-icon">📊</div>
-            <h3>Analytics & Tracking</h3>
-            <p>Detailed reporting to measure campaign success and performance</p>
-          </div>
         </div>
       </section>
 
@@ -95,8 +67,8 @@ function App() {
           </form>
           <div className="contact-info">
             <h3>Contact Information</h3>
-            <p><strong>Phone:</strong> (801) 555-0123</p>
-            <p><strong>Email:</strong> info@provolocal.com</p>
+            <p><strong>Phone:</strong> (801) 694-3473</p>
+            <p><strong>Email:</strong> zanderman765@gmail.com</p>
             <p><strong>Address:</strong> Provo, UT 84601</p>
             <p><strong>Hours:</strong> Mon-Fri, 9am-5pm</p>
           </div>
